@@ -1,14 +1,14 @@
 <h2 align="center">
-Hello there, I'm Diego. Creator of [Dvlance](https://www.dvlance.com/) 🎨 and Full-Stack Web Developer 💻.
-</h2> 
+Hello there, I'm Diego. Founder of <a href="https://www.dvlance.com" target="_blank" rel="noreferrer">Dvlance</a>🎨 and Full-Stack Web Developer 💻
+</h2>
 
 I'm interested in creating creative content, keeping up with advances in software development and implementing best practices to make amazing projects come to life.
 
-### 🤝 Contact me:
+## Connect with me:
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.behance.net/dvlance/projects" target="_blank"><img align="left" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670094.png?token=exp=1635978054~hmac=f91b93dd855345e1a38a6a98a760ecf6" alt="Behance" width="30px"/></a>
+<a href="https://t.me/Frikar" target="_blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" alt="Telegram" width="30px"/></a>
+<a href="mailto:diego@dvlance.com"><img align="left" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -54,5 +54,5 @@ I'm interested in creating creative content, keeping up with advances in softwar
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+  <a href="https://www.dvlance.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="Dvlance"></a>
 </p>
