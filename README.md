@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2>
 Hello there, I'm Diego. Founder of <a href="https://www.dvlance.com" target="_blank" rel="noreferrer">Dvlance</a>🎨 and Full-Stack Web Developer 💻
 </h2>
 
