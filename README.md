@@ -22,9 +22,9 @@ I'm interested in creating creative content, keeping up with advances in softwar
 ### 🌻 I'm currently learning
 
 - Svelte
-- Next.js
+- FastAPI
 - Go
-- Nest.js
+- React Native
 
 ### 🔬 Technical Skills
 
